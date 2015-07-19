@@ -1,0 +1,7 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-gb"
+title = "Peter Grainger"
+theme = "hugo-uno"
+[Params]
+ description = "Random Coding Goodness"
+ author = "Peter Grainger"
