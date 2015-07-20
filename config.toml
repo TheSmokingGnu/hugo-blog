@@ -1,4 +1,4 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "http://hugosite.s3-website-eu-west-1.amazonaws.com"
 languageCode = "en-gb"
 title = "Peter Grainger"
 theme = "hugo-uno"
