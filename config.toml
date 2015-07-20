@@ -1,4 +1,6 @@
 baseurl = "http://hugosite.s3-website-eu-west-1.amazonaws.com"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en-gb"
 title = "Peter Grainger"
 theme = "hugo-uno"
