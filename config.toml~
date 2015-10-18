@@ -1,6 +1,9 @@
-baseurl = "http://yourSiteHere/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://hugosite.s3-website-eu-west-1.amazonaws.com/"
+relativeURLs = true
+canonifyURLs = true
+languageCode = "en-gb"
+title = "Peter Grainger"
 theme = "hugo-uno"
 [Params]
- description = "custom content"
+ description = "Random Coding Goodness"
+ author = "Peter Grainger"
