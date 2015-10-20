@@ -1,9 +1,17 @@
-baseurl = "http://hugosite.s3-website-eu-west-1.amazonaws.com"
+BaseURL = "http://hugosite.s3-website-eu-west-1.amazonaws.com"
 relativeURLs = true
 canonifyURLs = true
 languageCode = "en-gb"
 title = "Peter Grainger"
 theme = "hugo-uno"
+[indexes]
+   category = "categories"
+   tag = "tags"
 [Params]
- description = "Random Coding Goodness"
- author = "Peter Grainger"
+  AuthorName = "Peter Grainger"
+  github = "theSmokingGnu"
+  bitbucket = "peter_grainger"
+  email = "petergrainger2000@gmail.com"
+  description = "Random Coding Goodness"
+  linkedin = "peterjamesgrainger"
+  cover = "/images/background-cover.jpg"
