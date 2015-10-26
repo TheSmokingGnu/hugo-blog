@@ -1,4 +1,4 @@
-BaseURL = "http://hugosite.s3-website-eu-west-1.amazonaws.com"
+BaseURL = "http://www.grainger.xyz"
 relativeURLs = true
 canonifyURLs = true
 languageCode = "en-gb"
